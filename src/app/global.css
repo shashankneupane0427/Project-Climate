@@ -1,0 +1,181 @@
+.Hollow {
+    font-size: 5vw;
+   
+    font-weight: 800;
+}
+
+.Hollow:hover {
+    -webkit-text-stroke: 2px black;
+    color: transparent;
+    animation: ease-in;
+    transform: scale(1.10);
+}
+
+.smallHollow {
+    font-size: 4vw;
+    font-weight: 800;
+
+}
+
+.smallHollow:hover {
+    -webkit-text-stroke: 2px black;
+    color: transparent;
+    animation: ease-in;
+    transform: scale(1.10);
+}
+
+
+@media (min-width: 1200px) {
+    .Hollow {
+        font-size: 90px;
+    }
+
+    .smallHollow {
+        font-size: 60px;
+    }
+
+    .lgHollow {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .Hollow {
+        font-size: 75px;
+    }
+
+    .smallHollow {
+        font-size: 45px;
+    }
+
+    .lgHollow {
+        font-size: 35px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .Hollow {
+        font-size: 80px;
+    }
+
+    .smallHollow {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 480px) {
+    .Hollow {
+        font-size: 16vw;
+    }
+
+    .smallHollow {
+        font-size: 10vw;
+    }
+}
+
+.question {
+    font-size: 5vw;
+    color: #56328C;
+}
+
+.LearnMore {
+    height: 80px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #60bb46;
+    transition: background-color 0.3s ease;
+
+
+}
+.LearnMore1 {
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #60bb46;
+    transition: background-color 0.3s ease;
+
+
+}
+
+.LearnMore:hover {
+    background-color: transparent;
+    border: 3px solid #60bb46;
+}
+.LearnMore1:hover {
+    background-color: #f0f0f0;
+    border: 3px solid #60bb46;
+}
+
+@media (min-width: 768px) {
+    .question {
+        font-size: 4vw;
+    }
+}
+
+
+@media (min-width: 1024px) {
+    .question {
+        font-size: 3vw;
+    }
+}
+
+
+@media (min-width: 1280px) {
+    .question {
+        font-size: 2.5vw;
+    }
+}
+
+@keyframes appear {
+    from {
+        opacity: 1;
+        scale: 1;
+    }
+
+    to {
+        opacity: 1;
+        scale: 1;
+    }
+}
+
+@keyframes side {
+    from {
+        opacity: 0;
+        clip-path: inset(100 100 0 0);
+    }
+
+    t0 {
+        opacity: 1;
+        clip-path: inset(0 0 0 0);
+    }
+}
+
+div {
+    animation: appear linear 0.5s;
+    animation-timeline: view();
+    animation-range: entry 0%, cover 5%;
+}
+
+.WhatDOImage {
+    animation: side linear;
+    animation-timeline: view();
+    animation-range: entry 0%, cover 40%;
+    transition: ease-in-out 0.2s;
+    z-index: 0;
+    position: relative;
+    overflow: hidden;
+}
+.WhatDOImage img{
+    transition: ease-in-out 0.35s;
+}
+
+.WhatDOImage:hover img {
+    
+    transform: scale(1.3);
+    z-index: 1000;
+    position: relative;
+    
+}
+
+

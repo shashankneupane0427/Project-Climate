@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "education",
+        "title": "This is the title of the very first post on this blog.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat dolor dolor.",
+        "authorID": 3,
+        "content": "<p>This is the full content Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta fugiat voluptatem ducimus similique hic in libero officiis. Quia vitae officia corporis dolorem praesentium minima illum eveniet quis, explicabo deleniti animi consectetur ipsum eaque facilis quos nobis repudiandae voluptate repellat eius! Voluptas odit vitae animi, impedit, repellendus assumenda suscipit numquam pariatur recusandae doloremque quis harum tempore eius, quia saepe sequi dicta cumque minima aliquam obcaecati voluptatibus nisi! Autem dolore ratione quos impedit maxime eaque recusandae reiciendis dolorem debitis. Dolorem quae commodi quibusdam rerum doloremque, dolorum dolor nihil facere minima accusantium quod a cum voluptatem ipsum officia molestias deleniti id aliquid reiciendis. Sequi voluptates voluptatibus, quo tenetur est laborum. Temporibus iste modi recusandae quos praesentium accusantium nesciunt possimus, corrupti eius, libero vero illum aperiam itaque perferendis aut id molestias ut reprehenderit. Rerum mollitia delectus asperiores necessitatibus accusantium repudiandae minima nesciunt rem, labore explicabo saepe hic, ipsa sed unde repellendus! Aliquid magnam ipsa voluptas odit. Commodi cupiditate atque eum voluptatibus vero necessitatibus nobis voluptate. Iste facere explicabo amet nostrum quas quidem repellendus quasi, aperiam dolorem iusto molestias nisi quo. Fugiat, quam labore eum sequi animi maxime mollitia aliquid? Libero voluptate enim eius quam alias, fuga, cumque quisquam, nobis eos illum sequi molestiae vel nulla neque esse sed tenetur? Nisi vero aut accusamus nobis, deserunt labore, aliquid autem dignissimos exercitationem accusantium, asperiores veniam similique. Voluptatibus modi debitis odio neque, minima dolorum quibusdam qui corporis saepe tempora! Beatae tempore enim, modi maiores dolores blanditiis voluptate praesentium. Laboriosam nesciunt nihil repellendus quaerat expedita velit nulla placeat, in doloremque vero hic soluta quisquam adipisci dolorem assumenda, molestiae ipsam libero? Laudantium quibusdam vel blanditiis in, nulla quas voluptatum reiciendis autem ullam eos, corrupti accusamus ipsa consequatur earum quia repellendus minus deleniti? Blanditiis voluptas veniam molestias! Iure aspernatur sunt, quae autem officiis repellat necessitatibus ab. Hic, voluptatem quae ratione at, fuga praesentium vero voluptate consequatur magni atque repellat quis minus facilis, libero adipisci porro. Sint inventore quis quasi veritatis ullam, at rem tenetur adipisci iure aperiam ab perferendis enim aspernatur pariatur voluptatem hic velit sit optio! Ipsa cum sed cupiditate modi quaerat mollitia maiores eius pariatur suscipit ex molestiae explicabo possimus, error laudantium quis perspiciatis. Magnam perspiciatis ratione repellat eos. Atque quae id fuga fugiat? Magni recusandae dolore atque officia dolorem, dignissimos consequuntur consequatur repellat? Delectus exercitationem autem voluptas quas esse deleniti debitis perferendis fugiat culpa eligendi repudiandae voluptates, dolor cupiditate officiis laudantium similique obcaecati, corporis, unde quasi tenetur veritatis porro reprehenderit doloribus. Ab optio obcaecati distinctio aut dolore, perspiciatis mollitia ut voluptatibus neque dolorum at ea, temporibus molestiae eaque nostrum odio eveniet sint ad nihil? Incidunt, dignissimos est. Voluptas necessitatibus animi maxime. Assumenda quisquam dolorem, dolore, similique ad facilis natus consequatur suscipit dicta temporibus repellendus, soluta maiores quas. Dignissimos corporis dolor quasi quis vel enim optio ea eligendi omnis impedit facere dolorum nam provident asperiores perspiciatis praesentium, odit quae voluptatibus tenetur dolore. Itaque, soluta odit sit laudantium, asperiores inventore pariatur repellendus esse quisquam et vel quas totam magni nisi unde consequuntur libero qui quaerat aperiam ipsum. Omnis, nulla. of the very first post. It discusses various aspects of education and its importance in personal development.</p> "
+    },
+    {
+        "id": "2",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "technology",
+        "title": "Exploring the latest advancements in AI.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus facilis incidunt.",
+        "authorID": 4,
+        "content": "<p>This post dives into the latest developments in artificial intelligence, exploring the innovations that are shaping the future.</p>"
+    },
+    {
+        "id": "3",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "travel",
+        "title": "Top 10 destinations to visit in 2024.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ea deleniti.",
+        "authorID": 5,
+        "content": "<p>Join us as we explore the top 10 travel destinations for 2024, including tips on where to stay and what to do.</p>"
+    },
+    {
+        "id": "4",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "health",
+        "title": "How to maintain a balanced diet.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, dicta.",
+        "authorID": 2,
+        "content": "<p>This article provides essential tips on maintaining a balanced diet, including meal planning and nutritional advice.</p>"
+    },
+    {
+        "id": "5",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "lifestyle",
+        "title": "Simple tips to declutter your home.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio atque ad.",
+        "authorID": 1,
+        "content": "<p>Learn how to declutter your home effectively with these simple yet practical tips to create a more organized space.</p>"
+    },
+    {
+        "id": "6",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "finance",
+        "title": "Understanding the basics of investing.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur eaque dolorum.",
+        "authorID": 3,
+        "content": "<p>This post explains the fundamental concepts of investing, helping beginners understand how to grow their wealth.</p>"
+    },
+    {
+        "id": "7",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "education",
+        "title": "Top resources for learning programming in 2024.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, error.",
+        "authorID": 6,
+        "content": "<p>Explore the best resources available for learning programming in 2024, from online courses to books and communities.</p>"
+    },
+    {
+        "id": "8",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "sports",
+        "title": "The most anticipated sports events of the year.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, distinctio.",
+        "authorID": 7,
+        "content": "<p>Get ready for the most anticipated sports events of the year! Here’s a rundown of what to look forward to.</p>"
+    },
+    {
+        "id": "9",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "entertainment",
+        "title": "Upcoming blockbuster movies you can’t miss.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore asperiores.",
+        "authorID": 8,
+        "content": "<p>Here’s a list of the upcoming blockbuster movies you need to add to your watchlist. Don’t miss these exciting releases!</p>"
+    },
+    {
+        "id": "10",
+        "thumbnail": "/images/grasslad.jpg",
+        "category": "technology",
+        "title": "The future of virtual reality technology.",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam possimus.",
+        "authorID": 4,
+        "content": "<p>This post explores the future of virtual reality technology and its potential impact on gaming, education, and beyond.</p>"
+    }
+]
