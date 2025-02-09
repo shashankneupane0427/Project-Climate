@@ -14,7 +14,7 @@ const Card = ({name,url,description,post}) => {
               <img src={url} alt="" className='h-32 w-32 rounded-full object-cover ' />
             </div>
             < div className='text-center'>
-              <span className='text-center border-b-2 border-green-400 '>
+              <span className='text-center text-green-600 font-bold' >
                 {name}
 
               </span>

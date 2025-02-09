@@ -2,36 +2,42 @@
     "projects": [
       {
         "id": "1",
-        "title": "Reforestation Initiative",
+        "title": "Reforestation for the Future",
         "images": [
-          "reforestation_image1.jpg",
-          "reforestation_image2.jpg",
-          "reforestation_image3.jpg"
+          "https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9yZXN0fGVufDB8fDB8fHww",
+          "https://plus.unsplash.com/premium_photo-1681140560806-928e8b9a9a20?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHBsYW50aW5nJTIwZm9yZXN0fGVufDB8fDB8fHww",
+          "https://plus.unsplash.com/premium_photo-1682094545287-8447f48f20c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGxhbnRpbmclMjBmb3Jlc3R8ZW58MHx8MHx8fDA%3D"
         ],
-        "sectionTitle": "Forest Restoration and Biodiversity",
-        "content": "The Reforestation Initiative focuses on restoring native forest ecosystems through community-led planting efforts. We aim to combat deforestation and loss of biodiversity by involving local schools, volunteers, and organizations. Through replanting native species, we contribute to cleaner air, enhanced water retention, and habitat restoration. Over the past year, our team has planted 5,000 trees across various regions, ensuring that these young forests are nurtured through continuous care and monitoring."
+        "sectionTitle": "Description",
+        "content": "Our Reforestation for the Future project aims to restore and protect local ecosystems by planting trees and promoting sustainable land management practices. We collaborate with local communities, schools, and businesses to organize tree planting events and educational workshops. By engaging volunteers and raising awareness about the importance of forests, we have successfully planted over 10,000 trees in deforested areas. Our efforts have not only improved air quality and biodiversity but also provided economic opportunities for local communities through sustainable forestry practices.",
+        "content2":" Project aims to restore and protect local ecosystems by planting trees and promoting sustainable land management practices. We collaborate with local communities, schools, and businesses to organize tree planting events and educational workshops. By engaging volunteers and raising awareness about the importance of forests, we have successfully planted over 10,000 trees in deforested areas. Our efforts have not only improved air quality and biodiversity but also provided economic opportunities for local communities through sustainable forestry practices.",
+        "content3":"We collaborate with local communities, schools, and businesses to organize tree planting events and educational workshops. By engaging volunteers and raising awareness about the importance of forests, we have successfully planted over 10,000 trees in deforested areas. Our efforts have not only improved air quality and biodiversity but also provided economic opportunities for local communities through sustainable forestry practices."
       },
       {
         "id": "2",
-        "title": "Clean Energy Campaign",
+        "title": "Clean Oceans Initiative",
         "images": [
-          "clean_energy_image1.jpg",
-          "clean_energy_image2.jpg",
-          "clean_energy_image3.jpg"
+          "https://plus.unsplash.com/premium_photo-1666286163385-abe05f0326c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8b2NlYW58ZW58MHx8MHx8fDA%3D",
+          "https://images.unsplash.com/photo-1468413253725-0d5181091126?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVhY2h8ZW58MHx8MHx8fDA%3D",
+          "https://images.unsplash.com/photo-1515238152791-8216bfdf89a7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlYWNofGVufDB8fDB8fHww"
         ],
-        "sectionTitle": "Promoting Sustainable Energy Solutions",
-        "content": "The Clean Energy Campaign advocates for the transition from fossil fuels to renewable energy sources, such as solar and wind power. We work with local governments, businesses, and communities to promote clean energy policies and reduce carbon emissions. Our team provides resources for families and businesses interested in solar installations, offering workshops and information on government grants. In 2024, we successfully installed solar panels in 100 households, significantly reducing dependency on non-renewable energy."
+        "sectionTitle": "Description",
+        "content": "Aiming to reduce plastic waste in the world's oceans, this project focuses on large-scale cleanup efforts, awareness campaigns, and policy advocacy. It includes beach cleanups, the development of new recycling technologies, and collaborations with governments to reduce plastic production and waste.",
+        "content2":"The Clean Oceans Initiative is a multi-phase project dedicated to eliminating plastic pollution from our oceans. We organize global beach cleanup events and collaborate with local governments to pass laws aimed at reducing single-use plastics. Additionally, we are working with innovators to develop advanced recycling solutions and create awareness about the impact of plastic on marine life. Our mission is to achieve cleaner oceans and raise public awareness about sustainable consumption.",
+        "content3":"By working directly with local communities, businesses, and governments, we are not only cleaning up the oceans but preventing future pollution from reaching our waters. The ultimate goal is a plastic-free ocean, where marine life can thrive and coastal ecosystems are protected for generations to come."
       },
       {
         "id": "3",
-        "title": "Climate Education Workshops",
+        "title": "Solar Power For ALL",
         "images": [
-          "education_workshop_image1.jpg",
-          "education_workshop_image2.jpg",
-          "education_workshop_image3.jpg"
+          "https://plus.unsplash.com/premium_photo-1661963945026-59bd82758da7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29sYXIlMjBwb3dlcnxlbnwwfHwwfHx8MA%3D%3D",
+          "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29sYXIlMjBwb3dlcnxlbnwwfHwwfHx8MA%3D%3D",
+          "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c29sYXIlMjBwb3dlcnxlbnwwfHwwfHx8MA%3D%3D"
         ],
-        "sectionTitle": "Engaging Youth and Communities",
-        "content": "Our Climate Education Workshops target schools, colleges, and community centers to raise awareness about climate change. These interactive workshops cover topics like the effects of pollution, sustainable practices, and climate-friendly lifestyles. By collaborating with environmental educators and professionals, we equip young people with the knowledge to advocate for climate action in their communities. This year alone, we have reached over 2,000 students, fostering an informed and proactive future generation committed to environmental stewardship."
+        "sectionTitle": "Description",
+        "content": "The Solar Power for All project is on a mission to provide clean, affordable, and renewable energy solutions to underserved and off-grid communities worldwide. By distributing solar power systems and offering training, we’re empowering communities to reduce their dependence on fossil fuels and gain access to a sustainable energy future.",
+        "content2":"Access to electricity is a fundamental human need, yet millions of people in remote areas across the globe still lack reliable power. The Solar Power for All initiative seeks to address this challenge by bringing solar energy to underserved regions, where traditional energy infrastructure is often lacking or unaffordable.",
+        "content3":"This project involves installing solar power systems in rural communities and offering training programs to local technicians and entrepreneurs. The systems provide clean energy for homes, schools, healthcare facilities, and small businesses, improving the quality of life and supporting economic growth. By reducing reliance on diesel generators and other non-renewable energy sources, we’re helping communities lower their carbon footprints while also providing a reliable and affordable source of energy."
       }
     ]
   }

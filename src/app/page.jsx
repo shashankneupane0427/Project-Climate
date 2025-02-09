@@ -1,73 +1,70 @@
-
 import React from 'react';
+import Head from 'next/head';
 import "./global.css";
 import Link from 'next/link';
 import Footer from '@/components/Footer';
+import Image from 'next/image';
 
 const Page = () => {
   return (
+    <>
+      <Head>
+        <title>Climate Care Network</title>
+        <link rel="icon" href="/images/Logo.png" />
+      </Head>
       <main style={{
         paddingLeft: '10%',
         paddingRight: '10%'
-
       }} className="z-0 pb-[40px] pt-[50px] lg:pt-[170px]">
-      <div className="flex flex-col-reverse lg:flex-row gap-4">
-        {/* Text Container */}
-        <div className="w-full lg:w-1/2 text-center lg:text-left">
-          <span className="Hollow">C</span>
-          <span className="Hollow">A</span>
-          <span className="Hollow">R</span>
-          <span className="Hollow">I</span>
-          <span className="Hollow">N</span>
-          <span className="Hollow">G</span><br />
-          <span className="Hollow" style={{
-            WebkitTextStroke: '2px black',
-            color: 'transparent',
-          }}>
-            CLIMATE
-          </span><br />
-          <span className="smallHollow">Curing PLANET</span>
-        </div>
+        <div className="flex flex-col-reverse lg:flex-row ">
+          {/* Text Container */}
+          <div className="w-full lg:w-1/2 text-center lg:text-left">
+            <span className="Hollow">C</span>
+            <span className="Hollow">A</span>
+            <span className="Hollow">R</span>
+            <span className="Hollow">I</span>
+            <span className="Hollow">N</span>
+            <span className="Hollow">G</span><br />
+            <span className="Hollow" style={{
+              WebkitTextStroke: '2px black',
+              color: 'transparent',
+            }}>
+              CLIMATE
+            </span><br />
+            <span className="smallHollow">Curing PLANET</span>
+          </div>
 
-
-        <div className="flex justify-center lg:justify-end w-full lg:w-1/2">
-          <img
-            src="/images/Logo.png"
-            className="py-10 w-full  h-auto mx-auto lg:mx-0  lg:py-0"
-            alt="Logo"
-            style={{ display: 'block' }}
-          />
-        </div>
-      </div>
-      <div className="text-center lg:text-left w-full lg:w-2/4 text-xl py-5" >
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit aspernatur soluta sit debitis, minima ex, at quos velit, commodi ratione molestiae in deserunt quis aliquid maxime est architecto. Voluptatibus, ipsam!
-      </div>
-      <div className="text-center lg:text-left mt-4">
-        <Link href="/aboutus"  ><button className="  LearnMore mt-10 text-center " >Learn More</button></Link>
-      </div>
-      <div className="text-center pt-[50px]  font-bold question lg:pt-[125px]"  >
-        <span>WHAT DOES CCN DO?</span>
-      </div>
-      <div className="text-center py-5 " >Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis natus doloribus, voluptate, blanditiis consectetur libero officiis sapiente amet recusandae commodi rerum vel! Nostrum quas ex praesentium beatae doloremque aut aspernatur fugiat? Dolores ducimus, odit voluptate mollitia cumque aspernatur? Error in nisi iure assumenda sit atque ipsam a beatae, sequi expedita.</div>
-      <div className="flex flex-col lg:flex-row py-[20px] gap-[3px] justify-center ">
-        <div className="flex flex-col lg:flex-row py-[20px] gap-[3px]">
-          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
-            <img src="/Homepage/animal.jpg " alt="" className="w-full h-full object-cover " />
-          </div>
-          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
-            <img src="/Homepage/fair.jpg" alt="" className="w-full h-full object-cover" />
-          </div>
-          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
-            <img src="/Homepage/rally.jpg" alt="" className="w-full h-full object-cover" />
-          </div>
-          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
-            <img src="/Homepage/windmill.jpg" alt="" className="w-full h-full object-cover" />
+          <div className="flex justify-center lg:justify-end w-full lg:w-1/2">
+            <Image
+              src="/images/Logo.png"
+              width={507}
+              height={360}
+              alt="Logo"
+              style={{ display: 'block' }}
+            />
           </div>
         </div>
-      </div>
-        <Footer/>
-    </main>
-    
+        <div className="text-center pt-[50px] font-bold question lg:pt-[125px]">
+          <span>WHAT DOES CCN DO?</span>
+        </div>
+        <div className="text-center py-5">At Climate Care Network, we are dedicated to building a sustainable and resilient future for communities worldwide. We focus on empowering individuals, businesses, and organizations to take meaningful action in response to climate change. Through collaborative efforts, we provide education, resources, and innovative solutions aimed at reducing environmental impact, promoting conservation, and advancing climate justice.</div>
+        <div className="flex flex-col lg:flex-row py-[20px] gap-[3px] justify-center">
+          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
+            <Image src="/Homepage/animal.jpg" alt="" width={507} height={360} className="w-full h-full object-cover" />
+          </div>
+          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
+            <Image src="/Homepage/fair.jpg" alt="" width={507} height={360} className="w-full h-full object-cover" />
+          </div>
+          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
+            <Image src="/Homepage/rally.jpg" alt="" width={507} height={360} className="w-full h-full object-cover" />
+          </div>
+          <div className="w-full lg:w-1/4 h-auto WhatDOImage">
+            <Image src="/Homepage/windmill.jpg" alt="" width={507} height={360} className="w-full h-full object-cover" />
+          </div>
+        </div>
+        <Footer />
+      </main>
+    </>
   );
 }
 

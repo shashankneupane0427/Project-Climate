@@ -7,83 +7,43 @@ const PostItem = () => {
     const posts = [
         {
             id: '1',
-            thumbnail: '/images/grasslad.jpg',
+            thumbnail: '/Projects/projectone.jpeg',
             category: 'education',
-            title: 'This is the title of the very first post on this blog.',
+            title: 'The Importance of Reforestation',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat dolor dolor.',
             authorID: 3
         },
         {
             id: '2',
-            thumbnail: '/images/grasslad.jpg',
+            thumbnail: 'https://images.unsplash.com/photo-1530587191325-3db32d826c18?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGxhc3RpYyUyMGltYWdlc3xlbnwwfHwwfHx8MA%3D%3D',
             category: 'technology',
-            title: 'Exploring the latest adfmad sifnaoisdfoi jasoidfj oasj dvancements in AI.',
+            title: 'The Global Plastic Crisis',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus facilis incidunt.',
             authorID: 4
         },
         {
             id: '3',
-            thumbnail: '/images/grasslad.jpg',
+            thumbnail: 'https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8c29sYXJ8ZW58MHx8MHx8fDA%3D',
             category: 'travel',
-            title: 'Top 10 destinations to visit in 2024.',
+            title: 'Why Solar Power is the Future',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ea deleniti.',
             authorID: 5
         },
         {
             id: '4',
-            thumbnail: '/images/grasslad.jpg',
+            thumbnail: 'https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGNsaW1hdGUlMjBjaGFuZ2V8ZW58MHx8MHx8fDA%3D',
             category: 'health',
-            title: 'How to maintain a balanced diet.',
+            title: 'Climate Change Impacts Wildlife and Ecosystems',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, dicta.',
             authorID: 2
         },
         {
             id: '5',
-            thumbnail: '/images/grasslad.jpg',
+            thumbnail: 'https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3VzdGFuYWJsZSUyMGhvdXNlfGVufDB8fDB8fHww',
             category: 'lifestyle',
-            title: 'Simple tips to declutter your home.',
+            title: 'Simple Steps to Make Your Home More Sustainable.',
             desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio atque ad.',
             authorID: 1
-        },
-        {
-            id: '6',
-            thumbnail: '/images/grasslad.jpg',
-            category: 'finance',
-            title: 'Understanding the basics of investing.',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur eaque dolorum.',
-            authorID: 3
-        },
-        {
-            id: '7',
-            thumbnail: '/images/grasslad.jpg',
-            category: 'education',
-            title: 'Top resources for learning programming in 2024.',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, error.',
-            authorID: 6
-        },
-        {
-            id: '8',
-            thumbnail: 'Thumbnail8/images/grasslad.jpg',
-            category: 'sports',
-            title: 'The most anticipated sports events of the year.',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae, distinctio.',
-            authorID: 7
-        },
-        {
-            id: '9',
-            thumbnail: '/images/grasslad.jpg',
-            category: 'entertainment',
-            title: 'Upcoming blockbuster movies you can’t miss.',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore asperiores.',
-            authorID: 8
-        },
-        {
-            id: '10',
-            thumbnail: '/images/grasslad.jpg',
-            category: 'technology',
-            title: 'The future of virtual reality technology.',
-            desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam possimus.',
-            authorID: 4
         }
     ];
 
