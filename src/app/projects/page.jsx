@@ -1,7 +1,6 @@
 import React from 'react';
 import Footer from '@/components/Footer';
 import Link from 'next/link';
-import Image from 'next/image';
 
 const projectsData = [
   {
@@ -48,12 +47,10 @@ const Page = () => {
                 } items-center gap-8 bg-white rounded-lg overflow-hidden`}
               >
                 <div className="w-full lg:w-1/2 h-64 relative mb-8">
-                  <Image
+                  <img
                     src={project.image}
                     alt={project.title}
-                    layout="fill"
-                    objectFit="cover"
-                    className="rounded-lg"
+                    className="w-full h-full object-cover rounded-lg"
                   />
                 </div>
                 <div className="lg:w-1/2 p-8">
