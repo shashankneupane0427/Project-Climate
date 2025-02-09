@@ -8,19 +8,19 @@ const projectsData = [
     id: 1,
     title: 'Reforestation for the Future',
     description: 'This project aims to combat deforestation by partnering with local communities and governments to restore lost forests and promote sustainable land-use practices.',
-    image: '/projects/projectone.jpeg',
+    image: 'https://images.unsplash.com/photo-1476231682828-37e571bc172f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9yZXN0fGVufDB8fDB8fHww',
   },
   {
     id: 2,
     title: 'Clean Oceans Initiative',
     description: "Aiming to reduce plastic waste in the world's oceans, this project focuses on large-scale cleanup efforts, awareness campaigns, and policy advocacy. It includes beach cleanups, the development of new recycling technologies.",
-    image: '/projects/projecttwo.jpeg',
+    image: 'https://plus.unsplash.com/premium_photo-1666286163385-abe05f0326c4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8b2NlYW58ZW58MHx8MHx8fDA%3D',
   },
   {
     id: 3,
     title: 'Solar Power for All',
     description: 'This project aims to bring solar energy solutions to underserved communities, providing affordable, sustainable power to regions with limited access to electricity.',
-    image: '/projects/projectthree.jpg',
+    image: 'https://plus.unsplash.com/premium_photo-1661963945026-59bd82758da7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8c29sYXIlMjBwb3dlcnxlbnwwfHwwfHx8MA%3D%3D',
   },
 ];
 
