@@ -35,7 +35,7 @@ const Page = () => {
       <div>
         <h1 className="text-5xl font-bold py-[20px] text-center text-gray-800">PROJECTS</h1>
         <p className="block text-center mb-12 text-gray-600 text-lg">
-          Our projects are designed to address some of the most urgent environmental challenges of our time, from combating climate change to restoring ecosystems and advancing clean energy solutions. Each project we undertake is driven by a shared vision of sustainability, equity, and resilience.
+          Our project are designed to address some of the most urgent environmental challenges of our time, from combating climate change to restoring ecosystems and advancing clean energy solutions. Each project we undertake is driven by a shared vision of sustainability, equity, and resilience.
         </p>
 
         <div className="space-y-20">
@@ -47,6 +47,7 @@ const Page = () => {
                 } items-center gap-8 bg-white rounded-lg overflow-hidden`}
               >
                 <div className="w-full lg:w-1/2 h-64 relative mb-8">
+                  
                   <img
                     src={project.image}
                     alt={project.title}
