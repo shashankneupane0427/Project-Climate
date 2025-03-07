@@ -1,4 +1,7 @@
 # 🌏CLIMATE CARE NETWORK
+
+<img src="/images/ccn.webp">
+
 Climate Care Network (CCN) is the official website of the organization Climate Care Network, dedicated to actively raising awareness about climate change in the modern era. The organization is committed to protecting the environment and promoting sustainable practices to safeguard the planet for future generations.
 
 
@@ -24,11 +27,7 @@ Climate Care Network (CCN) is the official website of the organization Climate C
 ```console 
 git clone https://github.com/your-username/climate-care-network.git 
 ```
-2) #### Navigate to the project directory:
-```console
-cd climate-care-network  
 
-```
 3) #### Install dependencies:
 ```console 
 npm install  
